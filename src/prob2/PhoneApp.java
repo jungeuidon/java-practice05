@@ -9,4 +9,4 @@ public class PhoneApp {
 		phone.execute("통화");
 		phone.execute("앱");
 	}
-}
+} 
